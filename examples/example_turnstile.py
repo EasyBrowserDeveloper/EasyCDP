@@ -5,8 +5,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspa
 
 from EasyCDP import EasyBrowserCDP
 
-CHROME_PATH   = r'E:\MyBusProject\MyCDP\fingerprint\fp_chrome\fp_chrome.exe'
-USER_DATA_DIR = r'D:\MyCDP\fp_chrome\user_data333'
+CHROME_PATH   = r'path/to/your/chrome.exe'
+USER_DATA_DIR = r'path/to/your/user_data_dir'
 PORT          = 9992
 PROXY_URL     = None
 
