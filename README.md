@@ -25,7 +25,7 @@
 
 > **ℹ️ 关于 EasyBrowser**
 >
-> EasyBrowser(https://github.com/EasyBrowserDeveloper/EasyBrowser)  是专为自动化场景设计的**页签级隔离**指纹浏览器，一个浏览器实例即可运行多个完全隔离的容器（Tab），直击传统多实例方案的三大痛点：资源消耗、流量消耗、机器人检测。
+> [EasyBrowser](https://github.com/EasyBrowserDeveloper/EasyBrowser)  是专为自动化场景设计的**页签级隔离**指纹浏览器，一个浏览器实例即可运行多个完全隔离的容器（Tab），直击传统多实例方案的三大痛点：资源消耗、流量消耗、机器人检测。
 >
 > **容器隔离能力**：每个 Tab 独立的指纹（CPU、内存、语言、时区、WebRTC、WebGL、Canvas、Audio、Worker）、Cookie / LocalStorage / IndexedDB、代理，多账号互不干扰。
 >
